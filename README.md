@@ -4,7 +4,8 @@
 ## |BIENVENIDO A MI PERFIL DE GITHUB|
 
 ## 👨‍💻Sobre mí
-🔹🔹Actualmente soy estudiante de desarrollo de software, Soy de Córdoba Argentina y Tengo 19 años. Siempre me gusta estar al tanto en el mundo del desarrollo de software y realizar proyectos para ir mejorando las habilidades🔹🔹
+
+🔹🔹Actualmente soy estudiante de desarrollo de software, Soy de Córdoba Argentina y Tengo 19 años. Siempre me gusta estar al tanto de las tecnologías y hacer proyectos para mejorar mis habilidades🔹🔹
 
 ## ⚡ Skills
 
