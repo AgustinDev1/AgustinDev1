@@ -1,7 +1,5 @@
 # ¡Hola! Soy Agustín Gibaut 👋
 
-Desarrollador de software 💻
-
 ![GIF de presentación](https://media0.giphy.com/media/58OujxlE7e19Mjv0gj/200w.gif?cid=6c09b952d60ohkhddwi0fsu7sb7aqbdhryubjcq3khrspla7&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
 ## 👨‍💻Sobre mí
