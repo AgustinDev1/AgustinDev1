@@ -20,4 +20,4 @@ Desarrollador de software 💻
 
 ## 📫 Conectar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/agustin-gibaut) 
+- 💼 [LinkedIn]([https://www.linkedin.com/in/agustin-gibaut](https://www.linkedin.com/in/agustin-gibaut-61baa5327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
