@@ -4,11 +4,8 @@ Desarrollador de software 💻
 
 ![GIF de presentación](https://media0.giphy.com/media/58OujxlE7e19Mjv0gj/200w.gif?cid=6c09b952d60ohkhddwi0fsu7sb7aqbdhryubjcq3khrspla7&ep=v1_gifs_search&rid=200w.gif&ct=g)
 
-## 🌱 Sobre mí
-
-- 🚀 Actualmente soy estudiante de desarrollo de software.
-- 🏡 Soy de Córdoba, Argentina.
-- 🎂 Tengo 19 años.
+## 👨‍💻Sobre mí
+🔹🔹Actualmente soy estudiante de desarrollo de software, Soy de Córdoba Argentina y Tengo 19 años. Siempre me gusta estar al tanto en el mundo del desarrollo de software y realizar proyectos para ir mejorando las habilidades🔹🔹
 
 ## ⚡ Skills
 
@@ -20,4 +17,4 @@ Desarrollador de software 💻
 
 ## 📫 Conectar
 
-- 💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-gibaut-61baa5327/)
+-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-gibaut-61baa5327/)
