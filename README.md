@@ -20,4 +20,4 @@ Desarrollador de software 💻
 
 ## 📫 Conectar
 
-- 💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/agustin-gibaut-61baa5327/](https://www.linkedin.com/in/agustin-gibaut-61baa5327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 💼 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-gibaut-61baa5327/)
