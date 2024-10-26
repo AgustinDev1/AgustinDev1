@@ -1,6 +1,6 @@
 # ¡Hola! Soy Agustín Gibaut 👋
 
-![GIF de presentación](https://media0.giphy.com/media/58OujxlE7e19Mjv0gj/200w.gif?cid=6c09b952d60ohkhddwi0fsu7sb7aqbdhryubjcq3khrspla7&ep=v1_gifs_search&rid=200w.gif&ct=g)
+![GIF de presentación](https://www.google.com/search?client=ms-android-americamovil-ar-revc&sca_esv=f23d37099304cbcf&sxsrf=ADLYWIKlG8CJHj0JFcOtH-Y0Jhi_REFPfQ:1729977636116&q=github.gif&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgWizR0-0aFOH11Sb5tlNhdwiPJWZFf-MdNGF5cE7ER6ksc8uP1I2s59dA09Tzf42V3bm5F_k0tThvuvLKliumZKzukURrA8TzYyd0ZDEMIxxeGW48Nu_SjjWINbzy0kp_IBsTpt22OdTNQt4I-FDEGJw-4ja7VHt5ap6nWjAd1VCHW10t6df0X4U3aENTDP-sk985LhwH2cXchm9X5v52EWubH2E&sa=X&ved=2ahUKEwjK_eDz_KyJAxWxALkGHYCBKm8QtKgLegQIDBAB&biw=412&bih=784&dpr=1.75#vhid=rnSXPj8_njWZQM&vssid=mosaic)
 
 ## 👨‍💻Sobre mí
 🔹🔹Actualmente soy estudiante de desarrollo de software, Soy de Córdoba Argentina y Tengo 19 años. Siempre me gusta estar al tanto en el mundo del desarrollo de software y realizar proyectos para ir mejorando las habilidades🔹🔹
