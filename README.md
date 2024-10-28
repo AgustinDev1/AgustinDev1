@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , soy Agustin Gibaut </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 bienvenido a mi perfil de github 
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://www.google.com/search?client=ms-android-americamovil-ar-revc&sca_esv=5a8c614fd8766773&sxsrf=ADLYWIIhioUi8ewsyRwXk6HHgokxpuxCMg:1730157111517&q=Gif+robot.png&udm=2&fbs=AEQNm0BFrzUMq4YHWbOZY6vJ_fV9ehxzHbvK-nVC9ab5-YYrqBy-jjpsGeFnUrW3athH0b0A4XtkejTYGWL_ZAzdfiVJvqKMXNrfFNzAPaCjLyo5XtqHppJvRMFCcrqRlozaNf5SgumPRNQ_M3xaM1vQF0CTcmm-53uw84czEf_x5b3mOqm6Ja3-MmCU3KS2VeB1QKQCi9MIYIsdPXisc5BbKeps8HS2-rMCYABBSPNldieVI2myplE&sa=X&ved=2ahUKEwiCjqbAmbKJAxVRJ7kGHaa_Jx0QtKgLegQIDxAB&biw=412&bih=784&dpr=1.75#imgrc=qwuV3AspHBco6M&imgdii=y530srXqbcrmDM" />
+<img align="right" width=300px alt="Unicorn" src="https://camo.githubusercontent.com/7f14cbe95217e0a4bf44378e2cd98b6a6f6555f6c0a76724f87a59f875fc2aff/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f622f523239765a32786c2f4156765873456a655157375a6261744d744259675639676c763361515f63314c526d304665474e664a314f6d492d6b385841347258773479617167416d567a34554d737056535f79395273734b64486d4d6e735936544b646d43446d7473693875485f6158456134735931764935425779576a583459476b745a58344e7141664f4e4e5732476367796f494c6f2d397a456d415f696577596b7961726f5330453652526468704d38764e54687341316b735056745055534e775a6e69585630612f7331363030302f67697068792e676966" />
 
 ## 👨‍💻Sobre mí
 
@@ -22,3 +22,6 @@ te invito a que veas mis proyectos!
 ## 📫 Conectar
 
 -  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-gibaut-61baa5327/)
+
+
+ Podrías agregar interacción como gif y letras especiales escritura y demas
