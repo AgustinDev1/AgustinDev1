@@ -5,10 +5,9 @@ bienvenido a mi perfil de github
 
 ## 👨‍💻Sobre mí
 
-Actualmente soy estudiante de desarrollo de software 
-Soy de Córdoba Argentina y Tengo 19 años
-Siempre me gusta estar al tanto de las tecnologías y hacer proyectos para mejorar mis habilidades
-te invito a que veas mis proyectos!
+Tengo 19 años de edad, y vivo en Córdoba Argentina.
+actualmente soy estudiante de Desarrollo de software. Decidí estudiar la carrera ya que me gusta el mundo de la programación y el desarrollo.
+Me gusta aprender nuevas tecnologías y siempre estoy al tanto de ellas. 
 
 
 ## ⚡ Skills
@@ -22,6 +21,3 @@ te invito a que veas mis proyectos!
 ## 📫 Conectar
 
 -  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-gibaut-61baa5327/)
-
-
- Podrías agregar interacción como gif y letras especiales escritura y demas
