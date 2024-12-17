@@ -41,6 +41,3 @@ Tengo 19 años de edad, y vivo en Córdoba, Argentina. Actualmente soy estudiant
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
-
-
-
