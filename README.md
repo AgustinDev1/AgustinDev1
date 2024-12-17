@@ -42,9 +42,5 @@ Tengo 19 años de edad, y vivo en Córdoba, Argentina. Actualmente soy estudiant
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/AgustinDev1">
-    <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Desarrollador+de+software" alt="Typing SVG" />
-  </a>
-</p>
+
 
