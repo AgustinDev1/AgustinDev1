@@ -28,7 +28,7 @@ Tengo 19 años de edad, y vivo en Córdoba, Argentina. Actualmente soy estudiant
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Control de Versiones & colaboracion
+### Control de Versiones & colaboración
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -39,6 +39,13 @@ Tengo 19 años de edad, y vivo en Córdoba, Argentina. Actualmente soy estudiant
 
 <p align="center">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Herramientas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ## 📫 Conectar
@@ -54,3 +61,4 @@ Tengo 19 años de edad, y vivo en Córdoba, Argentina. Actualmente soy estudiant
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
+
