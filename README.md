@@ -62,3 +62,10 @@ Tengo 19 años de edad, y vivo en Córdoba, Argentina. Actualmente soy estudiant
   </a>
 </p>
 
+## 🎥 Video que te puede gustar
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=tu_video_id">
+    <img src="https://img.youtube.com/vi/tu_video_id/0.jpg" alt="Personalizar GitHub" width="300">
+  </a>
+</p>
